@@ -17,8 +17,7 @@ def login():
     python_button.click()
 
 def lista():
-    browser.get("https://www.facebook.com/arthur.alvescorrea/friends?lst=100003044617558%3A100003044617558%3A1561861759&source_ref=pb_friends_tl")
-
+    browser.get("https://www.facebook.com/"
 
 login()
 lista()
